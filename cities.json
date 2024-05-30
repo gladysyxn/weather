@@ -1,0 +1,162 @@
+[
+  {
+    "city": "Los Angeles",
+    "temperatureRange": {
+      "min": 50,
+      "max": 85
+    },
+    "possibleWeather": ["sunny", "partly cloudy", "cloudy", "rain"],
+    "windSpeedRange": {
+      "min": 0,
+      "max": 20
+    },
+    "humidityRange": {
+      "min": 10,
+      "max": 70
+    }
+  },
+  {
+    "city": "Sydney",
+    "temperatureRange": {
+      "min": 45,
+      "max": 85
+    },
+    "possibleWeather": ["sunny", "partly cloudy", "cloudy", "rain", "storm"],
+    "windSpeedRange": {
+      "min": 0,
+      "max": 25
+    },
+    "humidityRange": {
+      "min": 20,
+      "max": 80
+    }
+  },
+  {
+    "city": "Tokyo",
+    "temperatureRange": {
+      "min": 30,
+      "max": 85
+    },
+    "possibleWeather": ["sunny", "partly cloudy", "cloudy", "rain", "snow"],
+    "windSpeedRange": {
+      "min": 0,
+      "max": 20
+    },
+    "humidityRange": {
+      "min": 30,
+      "max": 85
+    }
+  },
+  {
+    "city": "Singapore",
+    "temperatureRange": {
+      "min": 75,
+      "max": 95
+    },
+    "possibleWeather": ["sunny", "partly cloudy", "cloudy", "rain", "thunderstorm"],
+    "windSpeedRange": {
+      "min": 0,
+      "max": 15
+    },
+    "humidityRange": {
+      "min": 70,
+      "max": 100
+    }
+  },
+  {
+    "city": "Copenhagen",
+    "temperatureRange": {
+      "min": 25,
+      "max": 70
+    },
+    "possibleWeather": ["sunny", "partly cloudy", "cloudy", "rain", "snow"],
+    "windSpeedRange": {
+      "min": 0,
+      "max": 30
+    },
+    "humidityRange": {
+      "min": 50,
+      "max": 90
+    }
+  },
+  {
+    "city": "Bangkok",
+    "temperatureRange": {
+      "min": 70,
+      "max": 95
+    },
+    "possibleWeather": ["sunny", "partly cloudy", "cloudy", "rain", "thunderstorm"],
+    "windSpeedRange": {
+      "min": 0,
+      "max": 15
+    },
+    "humidityRange": {
+      "min": 60,
+      "max": 90
+    }
+  },
+  {
+    "city": "Rio",
+    "temperatureRange": {
+      "min": 65,
+      "max": 95
+    },
+    "possibleWeather": ["sunny", "partly cloudy", "cloudy", "rain", "storm"],
+    "windSpeedRange": {
+      "min": 0,
+      "max": 20
+    },
+    "humidityRange": {
+      "min": 50,
+      "max": 95
+    }
+  },
+  {
+    "city": "Toronto",
+    "temperatureRange": {
+      "min": 15,
+      "max": 85
+    },
+    "possibleWeather": ["sunny", "partly cloudy", "cloudy", "rain", "snow"],
+    "windSpeedRange": {
+      "min": 0,
+      "max": 25
+    },
+    "humidityRange": {
+      "min": 30,
+      "max": 85
+    }
+  },
+  {
+    "city": "Hong Kong",
+    "temperatureRange": {
+      "min": 55,
+      "max": 90
+    },
+    "possibleWeather": ["sunny", "partly cloudy", "cloudy", "rain", "thunderstorm"],
+    "windSpeedRange": {
+      "min": 0,
+      "max": 20
+    },
+    "humidityRange": {
+      "min": 70,
+      "max": 90
+    }
+  },
+  {
+    "city": "London",
+    "temperatureRange": {
+      "min": 30,
+      "max": 75
+    },
+    "possibleWeather": ["sunny", "partly cloudy", "cloudy", "rain"],
+    "windSpeedRange": {
+      "min": 0,
+      "max": 20
+    },
+    "humidityRange": {
+      "min": 50,
+      "max": 90
+    }
+  }
+]
